@@ -1,40 +1,16 @@
 # ARway
 
 ## Step 1: Visit https://www.arway.ai/ Choose Start Free Trial to continue.
-<br>
-<img src="assets/images/startFreeTrial.png" width="700">
-<br>
-<br>
 
 ## Step 2: Click the create account button. After creating the account email verification will be done. Then log into the ARway portal.
-<br>
-<img src="assets/images/createAccount.png" width="700">
-<br>
-<br>
 
 ## Step 3: Home page
-<br>
-<img src="assets/images/homePage.png" width="700">
-<br>
-<br>
 
 ## Step 4: Account plan can be viewed from the My Account menu. 
-<br>
-<img src="assets/images/accountPlan.png" width="700">
-<br>
-<br>
 
 ## Step 5: ARway app for Android and IoS can be downloaded from the Downloads menu.
-<br>
-<img src="assets/images/arwayApps.png" width="700">
-<br>
-<br>
 
 ## Step 6: Open the ARway app in mobile and log into it using the same credentials created earlier. 
-<br>
-<img src="assets/images/mobileHome.jpg" width="200">
-<br>
-<br>
 
 ## Step 7: Select the Create map option and map the place. As you start mapping blue dots appears on the place you map. Highest accuracy of localization can be gained if the number of dots or points is higher. 
 <br>
